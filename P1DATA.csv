@@ -1,0 +1,10 @@
+Product name,Price,Age,Purchased
+Milk,200,24,yes
+Bread,150,34,yes
+Choclate,45,45,yes
+Cake,,18,yes
+Biscuite,150,,no
+Milk,200,20,no
+Choclate,45,31,yes
+Biscuite,150,,yes
+Bread,150,19,no
